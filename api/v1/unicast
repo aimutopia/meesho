@@ -1,0 +1,24 @@
+{
+  "recipient": {
+    "recipientUuid": "test123",
+    "phoneNumbers": {
+      "primary": "1234567890",
+      "secondary": "2134567890"
+    },
+    "emailIds": {
+      "primary": "shiv4289@gmail.com",
+      "secondary": "xyz@abc.com"
+    }
+  },
+  "messagePayload": {
+    "sms": {
+      "prio": 1,
+      "messageBody": "Hi User"
+    },
+    "email": {
+      "prio": 2,
+      "message": "Hi abc, blah blah blah"
+    }
+  },
+  "rule": "SMS"
+}

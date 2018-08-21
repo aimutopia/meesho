@@ -1,3 +1,7 @@
+POST
+
+Request Body:
+
 {
   "recipient": {
     "recipientUuid": "test123",
